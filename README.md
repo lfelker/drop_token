@@ -2,7 +2,9 @@
 
 ## To Build the project, compile each of the three java files
 javac DropToken.java
+
 javac Board.java
+
 javac View.java
 
 ## There are two ways to run the program.
