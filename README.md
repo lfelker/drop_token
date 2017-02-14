@@ -14,7 +14,7 @@ java DropToken Console
 ### 2) Testing Execution, Read Input From File
 java DropToken somefile.txt
 
-Working Example:
+#### Working Example:
 java DropToken test/testDraw.txt
 
 There are more test files in the test folder
